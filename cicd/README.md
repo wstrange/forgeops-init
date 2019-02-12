@@ -11,6 +11,11 @@ This is a demonstration / POC. Use at your own risk!
 * Support fast iteration in "dev" mode
 * Support CD in "test/qa" mode
 
+Recommended Reading: 
+
+[The State of Kubernetes Configuration Management](https://blog.argoproj.io/the-state-of-kubernetes-configuration-management-d8b06c1205)
+
+
 ## Pre-reqs / tools
 
 * [kustomize](https://github.com/kubernetes-sigs/kustomize). This will soon be integrated into kubectl.
